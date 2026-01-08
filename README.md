@@ -1,53 +1,48 @@
-# Core-JAVA Projects 🚀✨
+<div align="center">
 
-This repository contains three projects developed in Core Java to solve basic problem statements. The projects focus on different aspects of Core Java, including console printing, multiple-choice questions, and simple interactive problems.
+# ☕ Core Java
 
-## Project 1: Console Printing
+[![GitHub stars](https://img.shields.io/github/stars/Shubh2-0/Core-JAVA?style=for-the-badge&logo=github&color=yellow)](https://github.com/Shubh2-0/Core-JAVA/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Shubh2-0/Core-JAVA?style=for-the-badge&logo=github&color=blue)](https://github.com/Shubh2-0/Core-JAVA/network/members)
 
-🖨️💬 This project demonstrates the basic functionality of console printing in Core Java. It provides examples and explanations of various methods and techniques for printing output to the console. You can explore the project to understand different ways of printing messages and formatting the output in the console.
+### Java Fundamentals
 
-## Project 2: Multiple Choice Questions
+*Basic problem-solving projects in Core Java*
 
-❓📝 The second project in this repository is a collection of multiple-choice questions related to Core Java. These questions cover various topics such as data types, control statements, object-oriented programming, exception handling, and more. Each question is accompanied by multiple options, and you can test your knowledge by selecting the correct answer.
+</div>
 
-## Project 3: Simple Interactive Problems
+---
 
-🔨🎮 In this project, you will find a set of basic interactive problems that can be solved using Core Java concepts. These problems are designed to help you practice your programming skills and reinforce your understanding of fundamental concepts such as loops, conditionals, and data structures. You can run the code provided in each problem and interact with it to see the expected output.
+## 🎯 About
 
-## Getting Started
+Collection of **Core Java** projects solving basic programming problems. Perfect for beginners starting their Java journey!
 
-📋 To get started with these projects, follow the steps below:
+## 📁 Projects
 
-1. Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/Shubh2-0/Core-JAVA.git
-   ```
+| Project | Focus |
+|---------|-------|
+| Console Printing | Basic I/O operations |
+| MCQ Application | Interactive quiz system |
+| Problem Solving | Logic and algorithms |
 
-2. Explore each project's directory to understand its purpose and contents.
+## 💡 Topics Covered
 
-3. Compile and run the Java code in your preferred development environment.
+- ✅ Variables & Data Types
+- ✅ Control Statements
+- ✅ Loops & Iterations
+- ✅ Arrays & Strings
+- ✅ Methods & Functions
+- ✅ OOP Basics
 
-4. Follow the instructions and comments within each project to interact with the programs and solve the problem statements.
+## 🛠️ Technologies
 
-## Contributions
-
-🤝🌟 Contributions to this repository are welcome! If you have any improvements, bug fixes, or new projects related to Core Java, feel free to open a pull request. Make sure to follow the existing coding style and provide appropriate documentation for your changes.
-
-✨🔧 Have fun coding and exploring Core Java!
-
-🔗 Repository Link: [https://github.com/Shubh2-0/Core-JAVA.git](https://github.com/Shubh2-0/Core-JAVA.git)
+Java | JDK | Eclipse/IntelliJ
 
 ## 📬 Contact
 
-If you want to contact me, you can reach me through below handles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-bhati-787319213/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhambhati226@gmail.com)
 
- <p align="left">
-  <a href="https://www.linkedin.com/in/shubham-bhati-787319213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
-  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
- </p>
+---
 
-<br>
-
-
-
+**Keywords:** Java Core-Java Fundamentals OOP Beginner Programming Basics
